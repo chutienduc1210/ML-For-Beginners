@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Home from '@/views/Home.vue';
-import Quiz from '@/components/Quiz.vue';
+import Home from '@/views/HomePage.vue';
+import Quiz from '@/components/QuizPage.vue';
 import NotFound from '@/views/NotFound.vue';
 Vue.use(Router);
 

@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import Quiz from "@/components/Quiz.vue";
+import Quiz from "@/components/QuizPage.vue";
 import messages from "@/assets/translations";
 
 export default {
